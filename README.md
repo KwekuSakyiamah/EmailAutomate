@@ -24,7 +24,6 @@ Update the recipient email in the script:
 {recipient_email = 'receiver@example.com'}
 
 
-How It Works
 The script connects to Gmail's SMTP server (smtp.gmail.com) using your credentials.
 It creates a secure connection via TLS.
 It sends a customizable email to the recipient with the specified subject and body.
