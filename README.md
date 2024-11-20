@@ -28,8 +28,6 @@ How It Works
 The script connects to Gmail's SMTP server (smtp.gmail.com) using your credentials.
 It creates a secure connection via TLS.
 It sends a customizable email to the recipient with the specified subject and body.
-Notes
 This script uses Gmail’s SMTP server, but it can be adapted for other email providers.
 Always keep your credentials secure by using environment variables.
-Contribution
 Feel free to fork the repository and submit a pull request with your improvements!
